@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=1920&h=800&fit=crop",
+        "title": "Support Local Communities",
+        "subtitle": "Every subscription helps local businesses thrive",
+        "buttonText": "Learn More"
+    },
+    {
+        "id": 2,
+        "thumbnail": "https://images.unsplash.com/photo-1607083206968-13611e3d76db?w=1920&h=800&fit=crop",
+        "title": "Curated Monthly Boxes",
+        "subtitle": "Handpicked items delivered to your door",
+        "buttonText": "Explore Boxes"
+    },
+    {
+        "id": 3,
+        "thumbnail": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1920&h=800&fit=crop",
+        "title": "Discover Something New",
+        "subtitle": "A surprise experience every month",
+        "buttonText": "Get Started"
+    }
+]

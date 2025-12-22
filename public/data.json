@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": "Artisan Coffee Discovery",
+        "thumbnail": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=600&h=400&fit=crop",
+        "banner": "https://i.ibb.co/coffee-banner.jpg",
+        "frequency": "Monthly",
+        "price": 29.99,
+        "description": "Explore freshly roasted artisan coffee beans sourced from independent roasters around the world, delivered to your doorstep.",
+        "tech_category": "Food & Beverage",
+        "features": [
+            "Single-origin Coffee Beans",
+            "Fresh Roast Guarantee",
+            "Tasting Notes & Brew Guides"
+        ],
+        "subscription_benefits": [
+            "Exclusive Roaster Discounts",
+            "Early Access to Limited Batches",
+            "Monthly Brewing Tips"
+        ],
+        "ratings": 4.7,
+        "number_of_reviews": 412
+    },
+    {
+        "id": 2,
+        "name": "Tech Gadgets & Accessories",
+        "thumbnail": "https://images.unsplash.com/photo-1468495244123-6c6c332eeece?w=600&h=400&fit=crop",
+        "banner": "https://i.ibb.co/tech-banner.jpg",
+        "frequency": "Monthly",
+        "price": 49.99,
+        "description": "Stay ahead with modern tech gadgets and productivity accessories curated for everyday digital life.",
+        "tech_category": "Technology",
+        "features": [
+            "Smart Accessories",
+            "Productivity Tools",
+            "Desk Essentials"
+        ],
+        "subscription_benefits": [
+            "Early Gadget Access",
+            "Tech Buying Guides",
+            "Member-only Deals"
+        ],
+        "ratings": 4.6,
+        "number_of_reviews": 368
+    },
+    {
+        "id": 3,
+        "name": "Wellness & Self-Care",
+        "thumbnail": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=600&h=400&fit=crop",
+        "banner": "https://i.ibb.co/wellness-banner.jpg",
+        "frequency": "Quarterly",
+        "price": 39.99,
+        "description": "A carefully curated self-care box designed to support mental relaxation, body wellness, and healthy routines.",
+        "tech_category": "Health & Wellness",
+        "features": [
+            "Natural Skincare Products",
+            "Aromatherapy Essentials",
+            "Mindfulness Tools"
+        ],
+        "subscription_benefits": [
+            "Stress Relief Guides",
+            "Wellness Expert Tips",
+            "Seasonal Care Kits"
+        ],
+        "ratings": 4.8,
+        "number_of_reviews": 521
+    },
+    {
+        "id": 4,
+        "name": "Book Lovers Collection",
+        "thumbnail": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&h=400&fit=crop",
+        "banner": "https://i.ibb.co/books-banner.jpg",
+        "frequency": "Monthly",
+        "price": 34.99,
+        "description": "A curated selection of books for passionate readers, including bestsellers, classics, and hidden gems.",
+        "tech_category": "Books & Literature",
+        "features": [
+            "Handpicked Books",
+            "Reading Accessories",
+            "Author Spotlights"
+        ],
+        "subscription_benefits": [
+            "Early Book Releases",
+            "Reading Community Access",
+            "Exclusive Discounts"
+        ],
+        "ratings": 4.5,
+        "number_of_reviews": 289
+    },
+    {
+        "id": 5,
+        "name": "Gourmet Snack Adventure",
+        "thumbnail": "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=600&h=400&fit=crop",
+        "banner": "https://i.ibb.co/snack-banner.jpg",
+        "frequency": "Monthly",
+        "price": 24.99,
+        "description": "Taste unique gourmet snacks from different cultures, carefully selected for adventurous food lovers.",
+        "tech_category": "Food & Beverage",
+        "features": [
+            "International Snacks",
+            "Limited Edition Flavors",
+            "Curated Taste Profiles"
+        ],
+        "subscription_benefits": [
+            "New Snacks Every Month",
+            "Flavor Discovery Guides",
+            "Member-only Treats"
+        ],
+        "ratings": 4.4,
+        "number_of_reviews": 334
+    },
+    {
+        "id": 6,
+        "name": "Plant & Garden Kit",
+        "thumbnail": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=600&h=400&fit=crop",
+        "banner": "https://i.ibb.co/plant-banner.jpg",
+        "frequency": "Quarterly",
+        "price": 44.99,
+        "description": "Grow and nurture your own plants with beginner-friendly gardening kits and eco-friendly tools.",
+        "tech_category": "Home & Garden",
+        "features": [
+            "Plant Seeds & Saplings",
+            "Gardening Tools",
+            "Care Instructions"
+        ],
+        "subscription_benefits": [
+            "Seasonal Plant Kits",
+            "Gardening Tips",
+            "Eco-friendly Products"
+        ],
+        "ratings": 4.6,
+        "number_of_reviews": 241
+    }
+]
